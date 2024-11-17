@@ -1,0 +1,19 @@
+#This file was edited 2023-05-16 apehanich
+
+User-agent: SiteCheck-sitecrawl by Siteimprove.com
+Allow: /
+Sitemap: https://www.scu.edu/media/scuedu/xml-assets/sitemap-253746.xml
+
+User-agent: *
+Allow: /
+Disallow: /terminalfour
+Disallow: /util
+Disallow: /site-assets
+Disallow: /apps/rooms/room_kiosk
+Disallow: /media/ethics-center/social-sector-ethics/
+Disallow: /testing/
+Disallow: /t4-training/
+Disallow: /apps/dev/
+Sitemap: https://www.scu.edu/media/scuedu/xml-assets/sitemap-253746.xml
+
+Disallow: /law-new/
